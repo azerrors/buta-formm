@@ -7,7 +7,7 @@ function App() {
         <img src="/logo2.png" alt="" />
       </div>
 
-      <form className="bg-sky-100  flex flex-col gap-10 p-7 mt-5">
+      <form className="bg-sky-100  flex flex-col gap-10 p-7 ">
         <h1 className="text-xl  border-b-2 pb-3 border-sky-900">
           Buta Vakansiya
         </h1>
