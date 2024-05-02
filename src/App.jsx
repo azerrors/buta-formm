@@ -56,7 +56,7 @@ function App() {
           />
         </div>
 
-        <button className="border p-2 rounded-md cursor-pointer text-white text-xl font-semibold bg-sky-700">
+        <button className="border p-2 rounded-md cursor-pointer text-white text-xl font-semibold bg-sky-800">
           Göndər
         </button>
       </form>
